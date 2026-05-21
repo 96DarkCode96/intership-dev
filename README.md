@@ -1,5 +1,10 @@
 # Raynet Internship Project
 
+## Wi-Fi
+
+- SSID: RAYNET-guest
+- pass: raynet007
+
 ## Design inspirace
 
 - https://hoodie-sale-49085175.figma.site/
