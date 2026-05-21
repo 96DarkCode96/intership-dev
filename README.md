@@ -1,5 +1,9 @@
 # Raynet Internship Project
 
+## Design inspirace
+
+- https://hoodie-sale-49085175.figma.site/
+
 ## Struktura projektu
 
 ```
