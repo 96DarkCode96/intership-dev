@@ -1,0 +1,9 @@
+{
+  "leaderboard": "Žebříček obchodníků",
+  "business_man_ranking": "Pořadí obchodníků",
+  "deals": "dealů",
+  "ranking": "{{ number }}. místo",
+  "currency": {
+    "czech": "Kč"
+  }
+}

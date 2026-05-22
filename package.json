@@ -24,5 +24,10 @@
     "express"
   ],
   "author": "Raynet",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "i18next": "^26.2.0",
+    "react-i18next": "^17.0.8",
+    "save": "^2.9.0"
+  }
 }
